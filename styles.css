@@ -1,0 +1,31 @@
+.Headon{
+    color: blueviolet;
+    text-align: center;
+}
+.butt{
+    height: 4.5rem;
+    width: 3.73rem;
+    padding: 1rem;
+    border-radius: 2.5rem;
+    margin: .1rem;
+    font-size: 1.1rem;
+    text-align: center;
+
+}
+
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.it-center{
+    justify-content: center;
+    align-items: center;
+}
+.row input{
+    height: 1.2rem;
+    width: 14.5rem;
+    padding: .2rem 1rem .2rem 1rem;
+    border: 2px solid black;
+}
